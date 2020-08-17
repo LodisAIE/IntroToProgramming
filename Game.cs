@@ -18,7 +18,7 @@ namespace HelloWorld
             Console.WriteLine(health);
             health = health + healthRegen;
             Console.Write( name + " just healed "+ healthRegen);
-            
+            Console.Write("Test");
         }
     }
 }
